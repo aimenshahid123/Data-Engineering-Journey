@@ -12,13 +12,23 @@ print(email.split("@"))
 # print(username)
 
 folder = ["Python","Data","Engineering"]
-print(" ".join(folder))
+print(folder)
+# print(" ".join(folder))
 
-sentence = "Python is fun"
+# sentence = "Python is fun"
 
-words = sentence.split()
+# words = sentence.split()
 
-result = "*".join(words)
+# result = "*".join(words)
 
-print(result)
-print(len(words))
+# print(result)
+# print(len(words))
+
+# #more example
+
+# record = "Ali,25,Lahore"
+# parts = record.split(",")
+# print(parts)
+# print(parts[0])
+# print(parts[1])
+# print(parts[2])
